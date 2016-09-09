@@ -5,8 +5,10 @@ This package is the supplementary materiales for the following manuscript： Xue
 -----------------------------
 #### (i) Quick Start
 ###### <1> Download the all the documents from: https://github.com/XueMingXiao/Saliency;
-###### <2> Put the folder Data and Code under the same folder. Run WaveletSaliency.exe
+###### <2> Put the folder 'Data' and 'Code' under the same folder. Run WaveletSaliency.exe
 ###### <3> The obtained saliency maps are in the folder: ***/Saliency where '***' represent the Folder of Database
+#### (ii) Notes
+###### <1> The '' the all the documents from: https://github.com/XueMingXiao/Saliency;
 #### (ii) Warning
 ###### <1> The program is for educational and research use only. Any commercial use is strictly prohibited without the authors' consent.
 
