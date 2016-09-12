@@ -13,6 +13,7 @@ This package is the supplementary materiales for the following manuscript： Xue
 ####### (2) MSRA is aviliable at: http://research.microsoft.com/en-us/um/people/jiansun/SalientObject/salient_object.htm
 ####### (3) SED2 is aviliable at: http://www.wisdom.weizmann.ac.il/~vision/Seg_Evaluation_DB/dl.html
 ###### <2> You can put your own Dataset under the folder 'Data', make sure your images are in the subfolder 'Imgs'of your own Dataset
+###### <3> We did not upload the code implementations of current sate-of-art methods, anyone who want to use codes of these methods for comparison, please see the benchamark of salient object detecion aviliable the Cheng's project page: http://mmcheng.net/salobjbenchmark/
 #### (iii) Warning
 ###### The program is for educational and research use only. Any commercial use is strictly prohibited without the authors' consent.
 
