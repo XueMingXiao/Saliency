@@ -3,10 +3,10 @@
 This package is the supplementary materiales for the following manuscript： Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian, wavelet-based saliency detection. Deep Space Exploration Research Center, Harbin Institute of Technology, Harbin, 150001 China, e-mail: alexcapshow@gmail.com.
 ## Contents
 -----------------------------
-#### (i) Quick Start
+#### (i) Direction
 ###### <1> Download the all the documents from: https://github.com/XueMingXiao/Saliency;
 ###### <2> Put the folder 'Data' and 'Code' under the same folder. Run WaveletSaliency.exe
-###### <3> The obtained saliency maps are in the folder: 'Data/***/Saliency' where '***' represents the Folder of Database
+###### <3> The obtained saliency maps are in the folder: 'Data/*/Saliency' where '*' represents the Folder of Database
 #### (ii) Notes
 ###### <1> In 'Data', there are three DataSets: 'ASD', 'SED2' and randomly setection from 'MSRA'. 
 ####### (1) ASD is aviliable at:http://ivrlwww.epfl.ch/supplementary_material/RK_CVPR09/; 
