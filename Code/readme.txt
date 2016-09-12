@@ -24,7 +24,7 @@ from the MathWorks Web site by navigating to
 2. Files to Deploy and Package
 
 Maker sure folders 'Data' and 'Code' download form our page is under the same folder. 
-Run the WaveletSaliency.exe. Resulting saliency maps are in the folder: DAta/
+Run the WaveletSaliency.exe. Resulting saliency maps are in the folder:'Data/DF/Saliency', where 'DF' represents the folder name of Database
 
 3. Warning 
 The program is for educational and research use only. Any commercial use is strictly prohibited without the authors' consent.
