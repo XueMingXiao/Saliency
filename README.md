@@ -6,7 +6,7 @@ This package is the supplementary materiales for the following manuscript： Xue
 #### (i) Direction
 ###### <1> Download the all the documents from: https://github.com/XueMingXiao/Saliency;
 ###### <2> Put the folder 'Data' and 'Code' under the same folder. Run WaveletSaliency.exe
-###### <3> The obtained saliency maps are in the folder: 'Data/DF/Saliency' where 'DF' represents the Folder of Database
+###### <3> The obtained saliency maps are in the folder: 'Data/DF/Saliency' where 'DF' represents the folder name of Database
 #### (ii) Notes
 ###### <1> In 'Data', there are three DataSets: 'ASD', 'SED2' and randomly setection from 'MSRA'. 
 ####### (1) ASD is aviliable at:http://ivrlwww.epfl.ch/supplementary_material/RK_CVPR09/; 
